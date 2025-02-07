@@ -1,4 +1,4 @@
-package arrayinitialization;
+package main.java.arrayinitialization;
 import java.util.stream.Stream;
 
 public class Task {
